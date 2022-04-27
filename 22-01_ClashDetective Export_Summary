@@ -1,9 +1,0 @@
-Background:
-  In Navisworks Freedom, there is no "Clash Detection" feature.
-  This document is the solution to offer the information of "Clash Detection" result for Navisworks Freedom users
-  (Such as construction site staff managers and so on..)
-  
-Idea
-  1. Clash Detective report can be exported to an HTML file, including the data of "Element ID"
-  2. Navisworks Manage's 'datatool' feature can be used for making a group set by properties like element id and so on.
-  → This means that : By HTML parsing, we can make a set to select objects which is on Clash Detection report.
